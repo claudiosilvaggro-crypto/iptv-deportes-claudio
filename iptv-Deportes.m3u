@@ -1,0 +1,107 @@
+#EXTM3U
+
+# ===== TNT =====
+
+#EXTINF:-1,TNT Sports (Principal)
+http://181.78.201.70:8000/play/a0tx/index.m3u8
+
+#EXTINF:-1,TNT Sports (Backup)
+http://45.232.210.1:18000/play/a08x/index.m3u8
+
+#EXTINF:-1,TNT Sports (Backup 2)
+http://45.181.122.46:8090/play/a04m
+
+
+#EXTINF:-1,TNT Premium (Principal)
+http://38.226.210.46:8000/play/a05m/index.m3u8
+
+#EXTINF:-1,TNT Premium (Backup 1)
+http://8.242.175.210:8000/play/a06n/index.m3u8
+
+#EXTINF:-1,TNT Premium (Backup 2)
+http://45.232.210.1:18000/play/a08a/index.m3u8
+
+
+# ===== ESPN =====
+
+#EXTINF:-1,ESPN (Principal)
+http://45.181.122.46:8090/play/a01m
+
+#EXTINF:-1,ESPN 2 (Principal)
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+
+#EXTINF:-1,ESPN 2 (Backup)
+http://45.167.1.136:8000/play/a06b
+
+
+#EXTINF:-1,ESPN 3 (Principal)
+http://45.167.1.136:8000/play/a02k
+
+#EXTINF:-1,ESPN 3 (Backup)
+http://45.181.122.46:8090/play/a01t
+
+
+#EXTINF:-1,ESPN 4 (Principal)
+http://45.5.118.152:8000/play/a004/index.m3u8
+
+#EXTINF:-1,ESPN 4 (Backup)
+http://45.167.1.136:8000/play/a02l
+
+
+#EXTINF:-1,ESPN 5 (Principal)
+http://45.5.118.152:8000/play/a092/index.m3u8
+
+#EXTINF:-1,ESPN 5 (Backup)
+http://45.167.1.136:8000/play/a04g
+
+
+#EXTINF:-1,ESPN 6 (Principal)
+http://45.5.118.152:8000/play/a003/index.m3u8
+
+
+#EXTINF:-1,ESPN 7 (Principal)
+http://181.118.153.15:8000/play/rq26/index.m3u8
+
+
+#EXTINF:-1,ESPN Premium (Principal)
+http://138.121.114.91:8000/play/a086/index.m3u8
+
+#EXTINF:-1,ESPN Premium (Backup)
+http://45.181.122.46:8090/play/a015
+
+
+# ===== OTROS =====
+
+#EXTINF:-1,FOX Sports
+http://45.167.2.138:8000/play/a0ql/index.m3u8
+
+#EXTINF:-1,FOX Sports 2
+http://181.176.155.7:8090/play/a1ph/index.m3u8
+
+#EXTINF:-1,FOX Sports 3
+http://45.167.2.138:8000/play/a0qn/index.m3u8
+
+
+#EXTINF:-1,Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+
+#EXTINF:-1,Claro Sports 2
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+
+
+#EXTINF:-1,DSports
+http://38.226.210.46:8000/play/A008/index.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://38.226.210.46:8000/play/a06d/index.m3u8
+
+
+#EXTINF:-1,Win Sports
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+
+#EXTINF:-1,Tigo Sports
+http://181.78.17.52:8000/play/a0rq/index.m3u8
+
+
+#EXTINF:-1,DeporTV
+http://138.121.114.91:8000/play/a07f/index.m3u8
