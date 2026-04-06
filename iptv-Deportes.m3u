@@ -72,8 +72,8 @@ http://45.181.122.46:8090/play/a015
 
 # ===== OTROS =====
 
-#EXTINF:-1,FOX Sports
-http://45.167.2.138:8000/play/a0ql/index.m3u8
+#EXTINF:-1,Sky Sport
+http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:-1,FOX Sports 2
 http://181.176.155.7:8090/play/a1ph/index.m3u8
@@ -81,6 +81,8 @@ http://181.176.155.7:8090/play/a1ph/index.m3u8
 #EXTINF:-1,FOX Sports 3
 http://45.167.2.138:8000/play/a0qn/index.m3u8
 
+#EXTINF:-1,FOX Sports 3
+http://138.121.114.91:8000/play/a06y/index.m3u8
 
 #EXTINF:-1,Claro Sports 1
 http://45.167.1.136:8000/play/a00d
@@ -88,13 +90,11 @@ http://45.167.1.136:8000/play/a00d
 #EXTINF:-1,Claro Sports 2
 http://45.5.118.152:8000/play/a0ah/index.m3u8
 
-
 #EXTINF:-1,DSports
 http://38.226.210.46:8000/play/A008/index.m3u8
 
 #EXTINF:-1,Movistar Deportes
 http://38.226.210.46:8000/play/a06d/index.m3u8
-
 
 #EXTINF:-1,Win Sports
 http://181.78.17.52:8000/play/a0pw/index.m3u8
@@ -102,10 +102,12 @@ http://181.78.17.52:8000/play/a0pw/index.m3u8
 #EXTINF:-1,Tigo Sports
 http://181.78.17.52:8000/play/a0rq/index.m3u8
 
-
 #EXTINF:-1,TyC Sports HD
 http://138.121.114.91:8000/play/a06x/index.m3u8
 
-
 #EXTINF:-1,DeporTV
 http://138.121.114.91:8000/play/a07f/index.m3u8
+
+#EXTINF:-1,Via X Sport
+http://38.226.49.253:8000/play/a042/index.m3u8
+
