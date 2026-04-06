@@ -103,5 +103,9 @@ http://181.78.17.52:8000/play/a0pw/index.m3u8
 http://181.78.17.52:8000/play/a0rq/index.m3u8
 
 
+#EXTINF:-1,TyC Sports HD
+http://138.121.114.91:8000/play/a06x/index.m3u8
+
+
 #EXTINF:-1,DeporTV
 http://138.121.114.91:8000/play/a07f/index.m3u8
