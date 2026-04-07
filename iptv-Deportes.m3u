@@ -58,6 +58,8 @@ http://45.167.1.136:8000/play/a04g
 #EXTINF:-1,ESPN 6 (Principal)
 http://45.5.118.152:8000/play/a003/index.m3u8
 
+#EXTINF:-1,ESPN 6 (Backup)
+http://45.232.210.1:18000/play/a095/index.m3u8
 
 #EXTINF:-1,ESPN 7 (Principal)
 http://181.118.153.15:8000/play/rq26/index.m3u8
