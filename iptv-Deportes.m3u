@@ -32,7 +32,6 @@ http://181.176.155.7:8090/play/a1vv/index.m3u8
 #EXTINF:-1,ESPN 2 (Backup)
 http://45.167.1.136:8000/play/a06b
 
-
 #EXTINF:-1,ESPN 3 (Principal)
 http://45.167.1.136:8000/play/a02k
 
@@ -76,6 +75,9 @@ http://45.181.122.46:8090/play/a015
 #EXTINF:-1,Sky Sport
 http://45.5.118.152:8000/play/a08f/index.m3u8
 
+#EXTINF:-1,Sky Sport BUND€S LlG∆ HD
+http://cinemagold.club:80//live/Leec3324/Leec3324/406840.ts
+
 #EXTINF:-1,FOX+
 http://181.78.98.214:8000/play/a00u/index.m3u8
 
@@ -117,3 +119,29 @@ http://38.226.49.253:8000/play/a042/index.m3u8
 
 #EXTINF:-1,Golf Channel
 http://45.167.1.136:8000/play/a05s
+
+
+# ===== DAZN =====
+
+#EXTINF:-1,DAZN OPCION 1
+http://cinemagold.club:80//live/Leec3324/Leec3324/406691.ts
+
+#EXTINF:-1,DAZN OPCION 2
+http://cinemagold.club:80//live/Leec3324/Leec3324/406692.ts
+
+#EXTINF:-1,DAZN OPCION 3
+http://cinemagold.club:80//live/Leec3324/Leec3324/406699.ts
+
+#EXTINF:-1,LA LIGA opcion 1
+http://cinemagold.club:80//live/Leec3324/Leec3324/406839.ts
+
+#EXTINF:-1,LA LIGA opcion 2
+http://cinemagold.club:80//live/Leec3324/Leec3324/406871.ts
+
+#EXTINF:-1,LA LIGA opcion 2
+
+
+
+
+
+
