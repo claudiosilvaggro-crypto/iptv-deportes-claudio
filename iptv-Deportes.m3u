@@ -27,10 +27,16 @@ http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57156
 # ===== ESPN =====
 
 #EXTINF:-1,ESPN (Principal)
-http://45.181.122.46:8090/play/a01m
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9521
 
 #EXTINF:-1,ESPN (Backup)
 http://cinemagold.club:80//live/Leec3324/Leec3324/81262.ts
+
+#EXTINF:-1,ESPN 1 LAT (Z)(720) (Backup)
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/179479
+
+#EXTINF:-1,Espn 1 MEX (i)(1080)
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9525
 
 #EXTINF:-1,ESPN 2 (Principal)
 http://181.176.155.7:8090/play/a1vv/index.m3u8
