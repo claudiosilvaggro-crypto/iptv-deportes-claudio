@@ -17,8 +17,11 @@ http://38.226.210.46:8000/play/a05m/index.m3u8
 #EXTINF:-1,TNT Premium (Backup 1)
 http://8.242.175.210:8000/play/a06n/index.m3u8
 
+#EXTINF:-1,TNT Premium (Backup 2)
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57154
+
 #EXTINF:-1,TNT Premium (Backup 3)
-http://cinemagold.club:80//live/Leec3324/Leec3324/276334.ts
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57156
 
 
 # ===== ESPN =====
@@ -191,8 +194,17 @@ http://cinemagold.club:80//live/Leec3324/Leec3324/143381.ts
 #EXTINF:-1,Tennis Channel
 http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/9602
 
+#EXTINF:-1,Tennis Channel USA HD
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/3108
 
-# ===== DAZN =====
+#EXTINF:-1,Sporting Club Chile
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/6331
+
+#EXTINF:-1,TD+
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/30477
+
+#EXTINF:-1,TD+ 2
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/30478
 
 #EXTINF:-1,DAZN OPCION 1
 http://cinemagold.club:80//live/Leec3324/Leec3324/406691.ts
@@ -210,7 +222,7 @@ http://cinemagold.club:80//live/Leec3324/Leec3324/406839.ts
 http://cinemagold.club:80//live/Leec3324/Leec3324/406871.ts
 
 #EXTINF:-1,LA LIGA opcion 2
-
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/6331
 
 
 
