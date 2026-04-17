@@ -15,10 +15,10 @@ http://45.181.122.46:8090/play/a04m
 http://38.226.210.46:8000/play/a05m/index.m3u8
 
 #EXTINF:-1,TNT Premium (Backup 1)
-http://8.242.175.210:8000/play/a06n/index.m3u8
+https://tv.nousiptv.com:8443/853030a1/anibalp/1160041
 
 #EXTINF:-1,TNT Premium (Backup 2)
-http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57154
+https://tv.nousiptv.com:8443/853030a1/anibalp/1156014
 
 #EXTINF:-1,TNT Premium (Backup 3)
 http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57156
