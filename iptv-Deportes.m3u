@@ -23,6 +23,9 @@ https://tv.nousiptv.com:8443/853030a1/anibalp/1156014
 #EXTINF:-1,TNT Premium (Backup 3)
 http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57156
 
+#EXTINF:-1,TNT Premium (Backup 4)
+http://daleplaytv.vip:80//live/123MMM/654321/276334.ts
+
 
 # ===== ESPN =====
 
@@ -33,8 +36,8 @@ https://tv.nousiptv.com:8443/853030a1/anibalp/1090736
 #EXTINF:-1,ESPN (Backup)
 http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9521
 
-#EXTINF:-1,ESPN (Backup 2)
-http://cinemagold.club:80//live/Leec3324/Leec3324/81262.ts
+#EXTINF:-1,ESPN Deportes
+http://daleplaytv.vip:80//live/123MMM/654321/360941.ts
 
 #EXTINF:-1,ESPN 1 LAT (Z)(720) (Backup)
 http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/179479
@@ -61,7 +64,7 @@ https://tv.nousiptv.com:8443/Lopera77/872399/4120
 http://45.167.1.136:8000/play/a02l
 
 #EXTINF:-1,ESPN 4 (Backup 2)
-http://cinemagold.club:80//live/Leec3324/Leec3324/361020.ts
+http://daleplaytv.vip:80//live/123MMM/654321/360928.ts
 
 #EXTINF:-1,ESPN 5 (Principal)
 https://tv.nousiptv.com:8443/Lopera77/872399/1245731
@@ -70,7 +73,7 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1245731
 http://45.167.1.136:8000/play/a04g
 
 #EXTINF:-1,ESPN 5 (Backup 2)
-http://cinemagold.club:80//live/Leec3324/Leec3324/306392.ts
+http://daleplaytv.vip:80//live/123MMM/654321/306878.ts
 
 #EXTINF:-1,ESPN 6 (Principal)
 http://45.167.1.136:8000/play/a06d
@@ -79,13 +82,13 @@ http://45.167.1.136:8000/play/a06d
 https://tv.nousiptv.com:8443/Lopera77/872399/1197851
 
 #EXTINF:-1,E$PN 6 HD
-http://cinemagold.club:80//live/Leec3324/Leec3324/306394.ts
+http://daleplaytv.vip:80//live/123MMM/654321/361022.ts
 
 #EXTINF:-1,ESPN 7 (Principal)
 http://181.118.153.15:8000/play/rq26/index.m3u8
 
 #EXTINF:-1,E$PN 7 HD
-http://cinemagold.club:80//live/Leec3324/Leec3324/306396.ts
+http://daleplaytv.vip:80//live/123MMM/654321/361023.ts
 
 #EXTINF:-1,ESPN Premium (Principal)
 http://8.242.175.210:8000/play/a09d/index.m3u8
@@ -94,19 +97,20 @@ http://8.242.175.210:8000/play/a09d/index.m3u8
 http://45.181.122.46:8090/play/a015
 
 #EXTINF:-1,ESPN Premium (Backup 2)
-http://cinemagold.club:80//live/Leec3324/Leec3324/306399.ts
+http://daleplaytv.vip:80//live/123MMM/654321/81254.ts
 
 #EXTINF:-1,ESPN USA
 https://tv.nousiptv.com:8443/Lopera77/872399/34602
 
 #EXTINF:-1,ESPN 3 MX
-http://cinemagold.club:80//live/Leec3324/Leec3324/361011.ts
+http://daleplaytv.vip:80//live/123MMM/654321/361011.ts
 
 #EXTINF:-1,ESPN carib
 http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/66372
 
 #EXTINF:-1,ESPN carib2
 http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/99623
+
 
 
 
@@ -191,14 +195,14 @@ http://45.167.1.136:8000/play/a05s
 #EXTINF:-1,Eurosport
 http://cinemagold.club:80//live/Leec3324/Leec3324/444079.ts
 
-#EXTINF:-1,ENTEL GOL
-http://cinemagold.club:80//live/Leec3324/Leec3324/160821.ts
+#EXTINF:-1,L1 MAX
+http://daleplaytv.vip:80//live/123MMM/654321/306889.ts
 
 #EXTINF:-1,TUDN USA
 https://tv.nousiptv.com:8443/Lopera77/872399/1105665
 
 #EXTINF:-1,TUDN MX
-http://cinemagold.club:80//live/Leec3324/Leec3324/362472.ts
+http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
 
 #EXTINF:-1,Adrenalina Sports HD
 http://cinemagold.club:80//live/Leec3324/Leec3324/360951.ts
@@ -259,8 +263,6 @@ http://cinemagold.club:80//live/Leec3324/Leec3324/406699.ts
 
 #EXTINF:-1,DAZN 4
 https://tv.nousiptv.com:8443/Lopera77/872399/1147319
-
-
 
 #EXTINF:-1,LA LIGA opcion 1
 http://cinemagold.club:80//live/Leec3324/Leec3324/406839.ts
