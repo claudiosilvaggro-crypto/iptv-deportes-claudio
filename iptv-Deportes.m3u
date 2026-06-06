@@ -2,6 +2,18 @@
 
 # ===== TNT =====
 
+#EXTINF:-1, CHILEVISIÓN (Principal)
+http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/55272.ts
+
+#EXTINF:-1, 12:45 ▫ Amistoso ▫ Portugal vs. Chile ▫ HD ▫
+http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/306391.ts
+
+#EXTINF:-1, 12:45 ▫ Amistoso ▫ Portugal vs. Chile ▫ SD ▫
+http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/540548.ts
+
+#EXTINF:-1, 12:45 ▫ Amistoso ▫ Portugal vs. Chile ▫ FHD ▫
+http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/540549.ts
+
 #EXTINF:-1,TNT Sports (Principal)
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 
@@ -46,15 +58,6 @@ http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/472221.ts
 #EXTINF:-1,ESPN Deportes
 http://daleplaytv.vip:80//live/123MMM/654321/360941.ts
 
-#EXTINF:-1,ESPN Chile
-http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/501
-
-#EXTINF:-1,ESPN 1 LAT (Z)(720) (Backup)
-http://deluxe-tv.site:80/46jsZGBnqvZB/43y5hPA8P4RG/218464.ts
-
-#EXTINF:-1,Espn 1 MEX (i)(1080)
-https://tv.nousiptv.com:8443/Lopera77/872399/1155892
-
 #EXTINF:-1,ESPN 2 (Principal)
 http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/306387.ts
 
@@ -77,7 +80,7 @@ http://45.167.1.136:8000/play/a02l
 http://daleplaytv.vip:80//live/123MMM/654321/360928.ts
 
 #EXTINF:-1,ESPN 4 (Backup 3)
-
+http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/306391.ts
 
 #EXTINF:-1,ESPN 5 (Principal)
 http://resplaytvofc.vip:80//live/DanielSpi/Nhtre98jgZvvR5/306392.ts
