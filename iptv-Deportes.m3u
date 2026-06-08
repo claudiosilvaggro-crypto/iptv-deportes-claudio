@@ -41,6 +41,9 @@ http://tv.zeuspro.xyz:8080/carbajaleon1/42c048147790/9923
 #EXTINF:-1,TNT Premium (Backup 5)
 http://galileatv.top:8080/deco-20/VumqaPUzpX/440939
 
+#EXTINF:-1,TNT Premium (Backup 6)
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/18747
+
 
 
 # ===== ESPN =====
@@ -153,8 +156,14 @@ https://zona593movie.com:8443/56984699680w1/310724zplayer/525790
 # ===== OTROS =====
 
 
-#EXTINF:-1,CDO 2
-http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/28491
+#EXTINF:-1,SPORTV +
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/29668
+
+#EXTINF:-1,SPORTV 1
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/24984
+
+#EXTINF:-1,SPORTV 2
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/24982
 
 #EXTINF:-1,Sky Sport
 http://45.5.118.152:8000/play/a08f/index.m3u8
@@ -320,6 +329,12 @@ https://zona593movie.com:8443/56984699680w1/310724zplayer/560990
 
 #EXTINF:-1,L1 max
 https://zona593movie.com:8443/56984699680w1/310724zplayer/531761
+
+#EXTINF:-1,RAI SPORT
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/62212
+
+#EXTINF:-1,RAI SPORT +
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/62214
 
 #EXTINF:-1,TELETRAK
 https://zona593movie.com:8443/56984699680w1/310724zplayer/614202
