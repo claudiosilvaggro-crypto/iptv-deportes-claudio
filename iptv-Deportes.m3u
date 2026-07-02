@@ -6,10 +6,10 @@
 http://tv.zeuspro.xyz:8080/carbajaleon1/42c048147790/211284
 
 #EXTINF:-1, CHILEVISIÓN (Backup)
-http://flexlive.lat:8080//live/56973785149/8rtbUGJvJCS9/175571.ts
+http://goldtv.lat:80/live/C42AFE915292/FE915292C42A/541537.ts
 
-#EXTINF:-1, CHILEVISIÓN (Backup 2)
-http://flexlive.lat:8080//live/56973785149/8rtbUGJvJCS9/175573.ts
+#EXTINF:-1, DIRECTV Sports 1 HD
+http://goldtv.lat:80/live/C42AFE915292/FE915292C42A/444070.ts
 
 #EXTINF:-1, DIRECTV Sports 1 HD
 http://ak-47scan.dyndns.tv:25461/Red4NeW2025/tVCSrMLF6E/575
