@@ -123,6 +123,15 @@ http://tv.zeuspro.xyz:8080/carbajaleon1/42c048147790/9536
 # ===== OTROS =====
 
 
+#EXTINF:-1,EUROSPORT 1 HD
+http://wplatino.live:8080/live/mirnalucero/HFyQAAspmEFr/199258.ts
+
+#EXTINF:-1,EUROSPORT 2 HD
+http://wplatino.live:8080/live/mirnalucero/HFyQAAspmEFr/267444.ts
+
+#EXTINF:-1,DAZN 4
+http://wplatino.live:8080/live/mirnalucero/HFyQAAspmEFr/124781.ts
+
 #EXTINF:-1,SPORTV +
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/29668
 
